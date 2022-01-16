@@ -3,8 +3,6 @@
 The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
 You need to view the file in "Read Mode" to see the contents properly after downloading the same.
 
-The LIME package code is attached with this repository as .ZIP file.
-
 LIME Package - A Brief Introduction
 ===================================
 The purpose of lime is to explain the predictions of black box classifiers. What this means is that for any given prediction and any given classifier it is able to determine a small set of features in the original data that has driven the outcome of the prediction.The lime package for R does not aim to be a line-by-line port of its Python counterpart. Instead it takes the ideas laid out in the original code and implements them in an API that is idiomatic to R.
